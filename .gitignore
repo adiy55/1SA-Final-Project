@@ -132,6 +132,7 @@ dmypy.json
 AB_US_2020.csv
 hotel_bookings.csv
 US-Superstore.csv
+cast.csv
 
 # pdf files
 FinalProject.pdf
