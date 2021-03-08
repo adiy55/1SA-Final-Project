@@ -1,6 +1,6 @@
 # 1SA-Final-Project
 ## Introduction to Data Science Final Project
-As part of the Introduction to Data Science course, we were given an assignmnet in order to reflect what we learned throughout the semester.
+As part of the Introduction to Data Science course, we were given an assignment in order to reflect what we learned throughout the semester.
 
 ### Jupyter Notebooks:
 
